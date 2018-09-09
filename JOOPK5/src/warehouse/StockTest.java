@@ -19,7 +19,8 @@ public class StockTest {
 		 * System.out.println("i1 vs i2 " + i1.equals(i2));
 		 * System.out.println("i2 vs i3 " + i2.equals(i3));
 		 * System.out.println("i3 vs i4 " + i3.equals(i4));
-		 * System.out.println("i4 vs i4 " + i4.equals(i4)); Set<Item> itemSet = new HashSet<Item>();
+		 * System.out.println("i4 vs i4 " + i4.equals(i4));
+		 * Set<Item> itemSet = new HashSet<Item>();
 		 * System.out.println("adding i1 " + itemSet.add(i1));
 		 * System.out.println("adding i2 " + itemSet.add(i2));
 		 * System.out.println("adding i3 " + itemSet.add(i3));
